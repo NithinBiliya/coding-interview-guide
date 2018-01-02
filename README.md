@@ -5,6 +5,7 @@ Data structures and algorithms
 
 1. [Linked List](#linked-list)
 2. [Stack](#stack)
+3. [Queue](#queue)
 
 =======================================================
 
@@ -33,7 +34,7 @@ Node - container contains a data part and a link part.
 ## Stack
 LIFO -- Last In First Out
 
-Key works - push, pop, peer, top of the stack, depth of the stack
+Key works - push, pop, peek, top of the stack, depth of the stack
 
 1. Implementation using Linked List
 2. Implementation using Array
@@ -56,3 +57,24 @@ Eg -
     Infix - 5+7*6-1
     Postfix - 576*+1-
 ```
+
+
+## Queue
+FIFO -- First In First Out
+
+Key works - enqueue, dequeue, peek, head of the queue
+
+1. Implementation using Linked List
+2. Implementation using Array
+
+### Operations on stack
+1. Enqueue
+2. Dequeue
+3. Peek
+4. Count
+5. Clear
+6. Enumerate
+
+### Priority Queue
+Not FIFO. The items are added into the queue at specific locations based on their priority
+
