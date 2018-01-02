@@ -24,4 +24,5 @@ Node - container contains a data part and a link part.
 2. Delete node
     1. Delete at the head
     2. Delete at the tail
-3. Enumerate
+3. Search
+4. Enumerate
