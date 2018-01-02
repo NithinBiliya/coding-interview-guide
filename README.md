@@ -8,7 +8,7 @@ Data structures and algorithms
 
 =======================================================
 
-## Linked List
+## 1. Linked List
 Node - container contains a data part and a link part.
 
 a. Singly linked list - only one pointer in a node pointing to the next node
