@@ -4,7 +4,7 @@ coding interview preparation materials
 Data structures and algorithms
 
 1. [Linked List](#linked-list)
-
+2. [Stack](#stack)
 
 =======================================================
 
@@ -28,3 +28,30 @@ Node - container contains a data part and a link part.
 3. Search
 4. Enumerate
 5. Clear list
+
+
+## Stack
+LIFO -- Last In First Out
+
+Key works - push, pop, peer, top of the stack, depth of the stack
+
+1. Implementation using Linked List
+2. Implementation using Array
+
+### Operations on stack
+1. Push
+2. Pop
+3. Peek
+4. Count
+5. Clear
+6. Enumerate
+
+### Postfix calculator
+using stack to implement postfix calculator
+
+Postfix is unambiguous of the priority of the operation.
+
+Eg -
+    Infix - 5+7*6-1
+    Postfix - 576*+1-
+    
