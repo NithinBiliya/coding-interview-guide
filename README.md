@@ -3,7 +3,12 @@ coding interview preparation materials
 
 Data structures and algorithms
 
-1. Linked list
+1. [Linked List](#linked-list)
+
+
+=======================================================
+
+## Linked List
 Node - container contains a data part and a link part.
 
 a. Singly linked list - only one pointer in a node pointing to the next node
