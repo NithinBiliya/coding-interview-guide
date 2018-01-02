@@ -52,8 +52,7 @@ using stack to implement postfix calculator
 Postfix is unambiguous of the priority of the operation.
 
 Eg -
-
-    Infix - 5+7\*6-1
-    
-    Postfix - 576\*+1-
-    
+```
+    Infix - 5+7*6-1
+    Postfix - 576*+1-
+```
