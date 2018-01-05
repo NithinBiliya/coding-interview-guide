@@ -90,6 +90,7 @@ Key works - enqueue, dequeue, peek, head of the queue
 ### Priority Queue
 Not FIFO. The items are added into the queue at specific locations based on their priority
 
+Other queues - Dequeue (Double ended queue), circular queue
 
 ## Binary Tree
 Startes with a root node. Each node has 0-2 children.
