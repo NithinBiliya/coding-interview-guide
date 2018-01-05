@@ -79,7 +79,7 @@ Key works - enqueue, dequeue, peek, head of the queue
 1. Implementation using Linked List
 2. Implementation using Array
 
-### Operations on stack
+### Operations on queue
 1. Enqueue
 2. Dequeue
 3. Peek
@@ -114,3 +114,6 @@ Right child - Value greater than or equal to the parent node
 
 Useful links -
 1. http://scanftree.com/Data_Structure/
+2. https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/
+
+
