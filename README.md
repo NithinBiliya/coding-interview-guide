@@ -117,3 +117,13 @@ Useful links -
 2. https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/
 
 
+## Java implemetation
+1. [singly linked list - no count variable](https://github.com/NithinBiliya/coding-interview-guide/blob/master/java-implementation/linked-list/com/cig/ds/SinglyLinkedList.java)
+2. [singly linked list](https://github.com/NithinBiliya/coding-interview-guide/blob/master/java-implementation/linked-list/com/cig/ds/SinglyLinkedList2.java)
+3. [doubly linked list](https://github.com/NithinBiliya/coding-interview-guide/blob/master/java-implementation/linked-list/com/cig/ds/DoublyLinkedList.java)
+4. [stack - implemented using array](https://github.com/NithinBiliya/coding-interview-guide/blob/master/java-implementation/stack/com/cig/ds/StackArray.java)
+5. [stack - implemented using linked list](https://github.com/NithinBiliya/coding-interview-guide/blob/master/java-implementation/stack/com/cig/ds/StackLinkedList.java)
+6. [stack - implemented using linked list](https://github.com/NithinBiliya/coding-interview-guide/blob/master/java-implementation/stack/com/cig/ds/StackLinkedList.java)
+7. [postfix calculator - using stack](https://github.com/NithinBiliya/coding-interview-guide/blob/master/java-implementation/stack/PostfixCalculator.java)
+8. [infix to postfix conversion - using stack](https://github.com/NithinBiliya/coding-interview-guide/blob/master/java-implementation/stack/InfixToPostfix.java)
+
