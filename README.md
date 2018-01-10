@@ -1,13 +1,20 @@
 # coding-interview-guide
 coding interview preparation materials
 
+
+
 Data structures and algorithms
+
+![alt text](http://scanftree.com/Data_Structure/pic.png "Data Structures")
 
 1. [Linked List](#linked-list)
 2. [Stack](#stack)
 3. [Queue](#queue)
+4. [Binary Tree](#binary-tree)
 
 =======================================================
+
+Topics to read before starting - Random-access-machine model, time/space complexity (Big O notation)
 
 ## Linked List
 Node - container contains a data part and a link part.
@@ -58,6 +65,11 @@ Eg -
     Postfix - 576*+1-
 ```
 
+### Infix transformation to Postfix
+using stack to transform infix to postfix expression
+
+### Infix transformation to Prefix
+using stack to transform infix to prefix expression
 
 ## Queue
 FIFO -- First In First Out
@@ -67,7 +79,7 @@ Key works - enqueue, dequeue, peek, head of the queue
 1. Implementation using Linked List
 2. Implementation using Array
 
-### Operations on stack
+### Operations on queue
 1. Enqueue
 2. Dequeue
 3. Peek
@@ -77,4 +89,31 @@ Key works - enqueue, dequeue, peek, head of the queue
 
 ### Priority Queue
 Not FIFO. The items are added into the queue at specific locations based on their priority
+
+Other queues - Dequeue (Double ended queue), circular queue
+
+## Binary Tree
+Startes with a root node. Each node has 0-2 children.
+
+### Binary Search Tree
+Sorted hierarchy of data. 
+
+Left child - Value less than the parent node
+
+Right child - Value greater than or equal to the parent node
+
+### Operations
+1. Adding data
+2. Finding data -- no need to search the entire tree, only one subset is enough. So better than linked list
+3. Removing data
+4. Traversal
+    1. Pre order - process node, visit left, visit right
+    2. In order - visit left, process node, visit right -- gives list in ascending sort order
+    3. Post order - visit left, visit right, process node
+
+
+Useful links -
+1. http://scanftree.com/Data_Structure/
+2. https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/
+
 
