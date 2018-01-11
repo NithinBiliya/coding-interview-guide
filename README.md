@@ -112,6 +112,8 @@ Right child - Value greater than or equal to the parent node
     3. Post order - visit left, visit right, process node
 5. Clear
 
+## Hash Tables
+associative array - key/value paid. Key is unique
 
 Useful links -
 1. http://scanftree.com/Data_Structure/
