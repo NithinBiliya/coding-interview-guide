@@ -137,4 +137,5 @@ Useful links -
 14. priority queue
 15. binary search tree
 16. sorting works - using BST
-
+17. factorial - using recursion
+18. Bracket checking - using stack
