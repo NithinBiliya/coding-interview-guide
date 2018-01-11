@@ -133,4 +133,6 @@ Useful links -
 12. queue - implemented using linked list
 13. queue - implemented using array
 14. priority queue
+15. binary search tree
+16. sorting works - using BST
 
