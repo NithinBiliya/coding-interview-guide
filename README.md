@@ -93,7 +93,7 @@ Not FIFO. The items are added into the queue at specific locations based on thei
 Other queues - Dequeue (Double ended queue), circular queue
 
 ## Binary Tree
-Startes with a root node. Each node has 0-2 children.
+Startes with a root node. Each node has 0-2 children. Tree - only one path between any two nodes in a tree.
 
 ### Binary Search Tree
 Sorted hierarchy of data. 
@@ -105,11 +105,12 @@ Right child - Value greater than or equal to the parent node
 ### Operations
 1. Adding data
 2. Finding data -- no need to search the entire tree, only one subset is enough. So better than linked list
-3. Removing data
+3. Removing data -- 3 cases to consider
 4. Traversal
     1. Pre order - process node, visit left, visit right
     2. In order - visit left, process node, visit right -- gives list in ascending sort order
     3. Post order - visit left, visit right, process node
+5. Clear
 
 
 Useful links -
@@ -126,4 +127,10 @@ Useful links -
 6. [stack - implemented using linked list](https://github.com/NithinBiliya/coding-interview-guide/blob/master/java-implementation/stack/com/cig/ds/StackLinkedList.java)
 7. [postfix calculator - using stack](https://github.com/NithinBiliya/coding-interview-guide/blob/master/java-implementation/stack/PostfixCalculator.java)
 8. [infix to postfix conversion - using stack](https://github.com/NithinBiliya/coding-interview-guide/blob/master/java-implementation/stack/InfixToPostfix.java)
+9. infix to prefix conversion - using stack
+10. postfix to infix conversion - using stack
+11. prefix to infix conversion - using stack
+12. queue - implemented using linked list
+13. queue - implemented using array
+14. priority queue
 
