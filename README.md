@@ -115,10 +115,53 @@ Right child - Value greater than or equal to the parent node
 ## Hash Tables
 associative array - key/value paid. Key is unique
 
+## Sorting
+### 1. Bubble sort
+Time complexity - O(n^2)
+	Worst case - O(n^2)
+	Average case - O(n^2)
+	Best case - O(n)
+Space complexity - O(n)
+
+### 2. Insertion sort
+Time complexity - O(n^2)
+	Worst case - O(n^2)
+	Average case - O(n^2)
+	Best case - O(n)
+Space complexity - O(n)
+
+### 3. Selection sort
+Time complexity - O(n^2)
+	Worst case - O(n^2)
+	Average case - O(n^2)
+	Best case - O(n^2)
+Space complexity - O(n)
+
+### 4. Merge sort - divide and conquer
+Time complexity - O(n*log(n))
+	Worst case - O(n*log(n))
+	Average case - O(n*log(n))
+	Best case - O(n*log(n))
+Space complexity - O(n) is possible
+
+### 5. Quick sort - divide and conquer
+Time complexity - O(n^2)
+	Worst case - O(n^2)
+	Average case - O(n*log(n))
+	Best case - O(n*log(n))
+Space complexity - O(n) is possible
+
+
+worst performance --> best performance
+Bubble sort > Selection sort > Insertion sort > Merge sort > Quick sort
+
+
+
+
 Useful links -
 1. http://scanftree.com/Data_Structure/
 2. https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/
-
+3. EXACT STRING MATCHING ALGORITHMS - http://www-igm.univ-mlv.fr/~lecroq/string/index.html
 
 ## Java implemetation
 1. [singly linked list - no count variable](https://github.com/NithinBiliya/coding-interview-guide/blob/master/java-implementation/linked-list/com/cig/ds/SinglyLinkedList.java)
@@ -139,3 +182,9 @@ Useful links -
 16. sorting works - using BST
 17. factorial - using recursion
 18. Bracket checking - using stack
+
+
+
+
+
+
